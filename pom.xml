@@ -6,7 +6,7 @@
 
     <groupId>com.criteo.java</groupId>
     <artifactId>garmadon</artifactId>
-    <version>1.4.0</version>
+    <version>1.4.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>garmadon</name>
@@ -86,7 +86,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <garmadon.version>1.4.0</garmadon.version>
+        <garmadon.version>1.4.1-SNAPSHOT</garmadon.version>
         <hadoop.version>2.6.0-cdh5.11.0</hadoop.version>
         <hive.version>2.3.8</hive.version>
         <netty-all.version>4.1.37.Final</netty-all.version>
